@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "electronics",
+    "price": 1200,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "electronics",
+    "price": 800,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "T-Shirt",
+    "category": "clothing",
+    "price": 25,
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Jeans",
+    "category": "clothing",
+    "price": 60,
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Headphones",
+    "category": "gadgets",
+    "price": 150,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Sports Watch",
+    "category": "sports",
+    "price": 200,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Novel Book",
+    "category": "books",
+    "price": 15,
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "name": "Coffee Maker",
+    "category": "home",
+    "price": 80,
+    "rating": 4.5
+  }
+]

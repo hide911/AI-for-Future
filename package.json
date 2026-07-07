@@ -1,0 +1,14 @@
+{
+  "name": "ai-for-future",
+  "version": "1.0.0",
+  "description": "Simple ML project for product recommendation and customer segmentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "keywords": ["machine-learning", "recommendation", "segmentation"],
+  "author": "hide911",
+  "license": "MIT"
+}

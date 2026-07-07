@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "totalSpent": 5000,
+    "purchaseFrequency": 50,
+    "lastPurchase": 10,
+    "preferredCategories": ["electronics", "gadgets"]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "totalSpent": 2000,
+    "purchaseFrequency": 20,
+    "lastPurchase": 30,
+    "preferredCategories": ["clothing", "accessories"]
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "totalSpent": 8000,
+    "purchaseFrequency": 80,
+    "lastPurchase": 5,
+    "preferredCategories": ["electronics", "home"]
+  },
+  {
+    "id": 4,
+    "name": "Alice Brown",
+    "totalSpent": 1500,
+    "purchaseFrequency": 15,
+    "lastPurchase": 60,
+    "preferredCategories": ["books", "media"]
+  },
+  {
+    "id": 5,
+    "name": "Charlie Wilson",
+    "totalSpent": 6000,
+    "purchaseFrequency": 60,
+    "lastPurchase": 8,
+    "preferredCategories": ["gadgets", "sports"]
+  },
+  {
+    "id": 6,
+    "name": "Diana Lee",
+    "totalSpent": 3000,
+    "purchaseFrequency": 35,
+    "lastPurchase": 20,
+    "preferredCategories": ["clothing", "beauty"]
+  }
+]
